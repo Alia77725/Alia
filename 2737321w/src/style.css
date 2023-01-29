@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+#menu {
+  position: absolute;
+  background: #fff;
+  cursor: pointer;
+  padding: 10px;
+  max-width: 240px;
+  width: calc(100%);
+  transition: background-color.16s ease-in；
+  font-family: "Open Sans", sans-serif;
+}
+
+
+
